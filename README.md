@@ -1,6 +1,8 @@
 # Google_Foobar_Challenge
 Documentation of secret hiring process embedded within Google search. Each level has a unique problem that can be solved using Python or Java. Below you can find the relevant description for each problem that I was assigned. 
 
+![Screenshot](landing_page.png)
+
 Level 1: Minion Labor Shifts
 ===================
 
